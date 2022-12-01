@@ -26,10 +26,10 @@ Aluno: João Gabriel Manfré Nazar (13733652)
 &ensp;O computador utilizado para os testes foi um notebook Dell G15 5510, com um processador Intel Core i5-10500H, funcionando conectado ao carregador com Eficiência Agressiva selecionado como opção de modo de aumento de desempenho do processador nas opções de energia do Windows 10 Pro 21H2. O computador possui 24GB de Memória RAM.
 
 ### Heap Sort com MaxHeapify
-![image](https://user-images.githubusercontent.com/106783009/204945691-bcf8d88e-6e58-4278-873f-011ca2eadb36.png)
+![image](https://user-images.githubusercontent.com/106783009/204952662-772629ac-e0ed-47d6-9ed8-d68abcec7df3.png)
 
 ### Heap Sort com inserção individual na heap e bubble up
-![image](https://user-images.githubusercontent.com/106783009/204948496-bc6c399f-0182-417c-a7f8-703ee46e9ec2.png)
+![image](https://user-images.githubusercontent.com/106783009/204952829-9fa6ffb4-c856-4c7e-a619-b624eff69d11.png)
 
 
 ## Considerações
