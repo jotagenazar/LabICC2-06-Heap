@@ -27,9 +27,12 @@ Aluno: João Gabriel Manfré Nazar (13733652)
 
 ### Heap Sort com MaxHeapify
 ![image](https://user-images.githubusercontent.com/106783009/204952662-772629ac-e0ed-47d6-9ed8-d68abcec7df3.png)
+![image](https://user-images.githubusercontent.com/106783009/204953034-efd5a090-d0b1-4914-bf5a-a44556a018ed.png)
 
 ### Heap Sort com inserção individual na heap e bubble up
 ![image](https://user-images.githubusercontent.com/106783009/204952829-9fa6ffb4-c856-4c7e-a619-b624eff69d11.png)
+![image](https://user-images.githubusercontent.com/106783009/204953092-09773adc-110d-4852-b26b-d74eb544fc7a.png)
+
 
 
 ## Considerações
