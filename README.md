@@ -36,4 +36,4 @@ Aluno: João Gabriel Manfré Nazar (13733652)
 
 
 ## Considerações
-&ensp; 
+&ensp; As soluções apresentam tempos de execução extremamente semelhantes, o que torna difícil concluir que um método é melhor que o outro. Porém, arrisco dizer que a implementação com maxHeapify seja a mais adequada para problemas maiores. O método de inserção por Bubble Up, apesar de mais simples, é executado para cada entrada e de maneira redundante por efetuar comparações e trocas que depois serão substituídas pelas novas inserções. Por outro lado, o método maxHeap, apesar de mais complexo em uma iteração, é executado menos vezes e de forma menos redundante.
